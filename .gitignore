@@ -1,11 +1,5 @@
-/env/
 /.idea/
 /src/
-/python/
-/python3env/
-/pip/
-/nginx/
-/uvicorn/
-/win/
-/debian/
-/promagen/
+/node/
+/npm/
+/npm_modules/

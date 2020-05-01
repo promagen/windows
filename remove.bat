@@ -1,1 +1,2 @@
-rmdir /S /Q "promagen"
+rmdir /S /Q "src"
+rmdir /S /Q "node"
