@@ -1,2 +1,2 @@
 rmdir /S /Q "src"
-rmdir /S /Q "node"
+rmdir /S /Q "php"

@@ -1,1 +1,1 @@
-src\status.bat
+src\status.bat & php\status.bat
