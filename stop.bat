@@ -1,3 +1,3 @@
-src\stop.bat
 ::node\stop.bat
 php\stop.bat
+src\stop.bat
