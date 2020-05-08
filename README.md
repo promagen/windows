@@ -1,20 +1,30 @@
-# windows
-Environment prepared to execute ProMaGen on windows.
-[promagen/windows: Environment prepared to execute ProMaGen on windows OS](https://github.com/promagen/windows)
+# [promagen/windows: Environment prepared to execute ProMaGen on windows OS](https://github.com/promagen/windows)
+
+This is example of usage [Apicra](https://www.apicra.com) and [Apiexec](https://www.apiexec.com) in [ProMaGen](https://www.promagen.com) application.
+With [API Foundation](https://www.apifoundation.com/) ecosystem to execute fast as possible any application in any environment.
+
+In this example we are using 3 packages:
++ sourcode of [promagen one](https://github.com/promagen/one.git)
++ apicra installer for [nodejs](https://github.com/apicra/win-node.git)
++ [php executor](https://github.com/apicra/win-php.git) for example service working on port 8080
+
 
 ## required
 
 + [Git for Windows](https://gitforwindows.org/)
-+ [Download | Node.js](https://nodejs.org/en/download/)
++ [Download Node.js for windows](https://nodejs.org/en/download/)
 
-## Installation on windows
+## Installation and start on windows
 
-download using git command
+first download by git cloning the code:
 
     git clone https://github.com/promagen/windows.git promagen-win
+
+go to the directory:
+
     cd promagen-win
 
-## start working with ProMaGen
+and start working with ProMaGen by scripts:
 
     download.bat
     install.bat
