@@ -1,10 +1,11 @@
 # windows
 Environment prepared to execute ProMaGen on windows.
+[promagen/windows: Environment prepared to execute ProMaGen on windows OS](https://github.com/promagen/windows)
 
 ## required
 
-+ git, https://gitforwindows.org/
-+ nodejs
++ [Git for Windows](https://gitforwindows.org/)
++ [Download | Node.js](https://nodejs.org/en/download/)
 
 ## Installation on windows
 
