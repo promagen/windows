@@ -1,5 +1,9 @@
 # [promagen/windows: Environment prepared to execute ProMaGen on windows OS](https://github.com/promagen/windows)
 
+[ProMaGen](https://www.promagen.com) is a nodejs service to execute shell scripts by browser without terminal.
+it's a WebUI tool for DevOps, give a chance to manage the project by browser too for end users.
+
+## Example
 This is example of usage [Apicra](https://www.apicra.com) and [Apiexec](https://www.apiexec.com) in [ProMaGen](https://www.promagen.com) application.
 With [API Foundation](https://www.apifoundation.com/) ecosystem to execute fast as possible any application in any environment.
 
