@@ -1,7 +1,6 @@
 # windows
 Environment prepared to execute ProMaGen on windows.
 
-
 ## required
 
 + git, https://gitforwindows.org/
