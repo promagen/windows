@@ -17,21 +17,24 @@ In this example we are using 3 packages:
 
 At local development we are using some application based on localhost and in this example it's a PHP service just for a testing http://localhost:8080
 The path for a executing the scripts is set on "../", the folder is currently used by this repository.
-In Real usage, we are creating the structure of project such:
+We have to options, creating such here scripts to control each external separated repositories  
+or we can create sourcode + ProMaGen code by creating the structure of project such:
 
 + MainApp
     + src
     + docker
     + vendor
+    + restart.bat
     + ... some files such composer.json
 
-What we need add is just creating more scripts to execute by promagen,
-we can use the all scripts here created and leave only
+What we need add is just creating more scripts to execute by ProMaGen,
+we can use the all scripts here created and leave only:
 
     restart.bat
 
-To use it every time to restart our application, and another just to controll our docker or another services
-at this point of view, we can control all folders inside the project by the scripts.
+To use it every time to restart our application and more scripts e.g.: to control our docker or another services...
+
+At this point of view, we can control all folders inside the project by the bash scripts.
 
 
 ## required
