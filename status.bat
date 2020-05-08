@@ -1,2 +1,2 @@
 @ECHO OFF
-src\status.bat & php\status.bat & node\status.bat
+promagen\status.bat & php\status.bat & node\status.bat

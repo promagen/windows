@@ -1,2 +1,2 @@
-src/browser.bat
+promagen/browser.bat
 php/browser.bat

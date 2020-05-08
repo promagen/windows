@@ -1,2 +1,2 @@
-src\status.bat
+promagen\status.bat
 php\status.bat

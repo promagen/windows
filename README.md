@@ -24,6 +24,7 @@ or we can create sourcode + ProMaGen code by creating the structure of project s
     + src
     + docker
     + vendor
+    + promagen
     + restart.bat
     + ... some files such composer.json
 
