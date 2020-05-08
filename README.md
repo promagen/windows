@@ -2,7 +2,7 @@
 
 [ProMaGen](https://www.promagen.com) is a nodejs service to execute shell scripts by browser without terminal.
 it's a WebUI tool for DevOps, give a chance to manage the project by browser.  
-It's dedicated for daily work by developers on local development and for end users, during testing the test version.
+It's dedicated for daily work by developers on local development and for end users, during testing the test version of application.
 
 ## Example
 
@@ -36,6 +36,41 @@ we can use the all scripts here created and leave only:
 To use it every time to restart our application and more scripts e.g.: to control our docker or another services...
 
 At this point of view, we can control all folders inside the project by the bash scripts.
+
+## more advanced example structure of scripts
+
+
++ docker
+  + status
+  + build
+  + restart
+  + remove
+
++ mysql
+  + status
+  + backup
+  + restore
+  + restore_from_live
+  + replace_live_data
+
++ composer
+  + install
+  + clear
+  + repair
+  + update_packages
+  + update_composer
+
++ unittest
+  + restart
+
++ php
+  + restart
+  + logs
+  + clean_cache
+
++ files
+  + set_rights
+  + remove_temporary_files
 
 
 ## required

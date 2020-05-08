@@ -1,6 +1,7 @@
 /.idea/
 /promagen/
 /php/
+/src/
 /node/
 /npm/
 /npm_modules/
